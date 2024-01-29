@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello fellow geeks 👋</h1>
 
 <p align="center">
-  <img src = "https://github.com/navsingh3211/navsingh3211/blob/master/images/malecodertocat.png" width = "300" height = "300" align = "center">
+  <img src = "https://github.com/navsingh3211/navsingh3211/blob/main/images/me11.svg" width = "300" height = "300" align = "center">
   <a href="mailto:navsingh3211@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/navneet-singh-a9b5bb1a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -35,12 +35,6 @@ I'm a  __merb stack developer__ from __India__. I love programming and am intere
 
 ## Technologies/Languages/Frameworks
 <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/node.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/js.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/express.svg" width=60> <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/express.svg" width=60>
-
-
-
-## Frameworks
- <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/bootstrap.svg" width=60>  <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/flask.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/react.svg" width=60> 
-
 
 
 ## Databases
