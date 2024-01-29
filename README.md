@@ -34,7 +34,7 @@ I'm a  __merb stack developer__ from __India__. I love programming and am intere
 </a>-->
 
 ## Technologies/Languages/Frameworks
-<img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/node.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/js.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/express.svg" width=60> <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/express.svg" width=60>
+<img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/node.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/js.svg" width=60>   <img src="https://github.com/navsingh3211/navsingh3211/blob/main/images/express.svg" width=60> 
 
 
 ## Databases
