@@ -42,9 +42,9 @@
 - Spring Boot
 - Spring Security
 - REST APIs
-- Microservices
-- Node.js
-- Express.js
+- MCP servers
+- Machine Learning and Deep leanrning
+- Gen ai and Agentic ai
 
 ### Frontend
 
